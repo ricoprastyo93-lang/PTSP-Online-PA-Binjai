@@ -1,2 +1,2 @@
-# PTSP-Online-PA-Binjai
+# PTSP
 Sistem Aplikasi Pelayanan Terpadu Satu Pintu Berbasis WEB
